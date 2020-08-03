@@ -1,0 +1,6 @@
+#Private Keys
+class keys:
+    CONSUMER_KEY = "VSsukXgRg6LPo9PX8gkpx2HvI"
+    CONSUMER_SECRET = "cZzHo4gtL2h18pgzvzcUzPP4WuxFke7taI55GllDjjLCmeCY6k"
+    OAUTH_TOKEN = "818452111000240128-KFIFXKmEsc4s37lu5jRHK1wVh9jKtAW"
+    OAUTH_SECRET = "aR7TrRWKpXJrIOwkiDGDMWxlf9PccrEXPJyuWXpjf5qfY"
